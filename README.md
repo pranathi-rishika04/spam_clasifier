@@ -53,5 +53,21 @@ streamlit run app.py
 ```
 This will open a new tab in your default web browser where you can enter text and test the classifier!
 
+
 ## 📸 Screenshots
-*(You can add screenshots of your running app here. Since the UI features a clean centered design with a red warning box for Spam and a green success box for Ham, take a picture of both states!)*
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+### ✅ Ham Prediction
+
+![Ham Prediction](screenshots/ham.png)
+
+---
+
+### 🚨 Spam Prediction
+
+![Spam Prediction](screenshots/spam.png)
