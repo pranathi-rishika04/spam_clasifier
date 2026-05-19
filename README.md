@@ -58,16 +58,16 @@ This will open a new tab in your default web browser where you can enter text an
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.png.png)
 
 ---
 
 ### ✅ Ham Prediction
 
-![Ham Prediction](screenshots/ham.png)
+![Ham Prediction](screenshots/ham.png.png)
 
 ---
 
 ### 🚨 Spam Prediction
 
-![Spam Prediction](screenshots/spam.png)
+![Spam Prediction](screenshots/spam.png.png)
